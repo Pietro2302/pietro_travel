@@ -1,3 +1,4 @@
+/*Styling the topnav bar*/
 .topnav {
     background-color: #333;
     overflow: hidden;
@@ -42,4 +43,15 @@
     margin-top: 8px;
     margin-right: 16px;
     font-size: 17px;
+}
+/*Styling the home page*/
+.home {
+
+    background-image: url("./images/background_home.jpg");
+}
+.home h2{
+    margin-top: 0px;
+}
+.hook{
+    float: right;
 }
